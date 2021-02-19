@@ -2,7 +2,7 @@
 
 ## Download
 
-Grab clang-tools static binaries for your platform from [Releases](https://github.com/muttleyxd/clang-format-static-binaries/releases) tab!
+Grab clang-tools static binaries for your platform from [Releases](https://github.com/gurcei/clang-format-static-binaries/releases) tab!
 
 ## Motivation behind this repo
 
